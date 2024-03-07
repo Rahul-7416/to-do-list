@@ -11,4 +11,7 @@ HTML, CSS, Vanilla JS
 # API Used:
 None (This to-do list application is built purely with front-end technologies.)
 
+# Project's Live Link:
+[To-Do-List](https://to-do-list-94516.web.app/)
+
 Elevate your productivity and take control of your schedule with the To-Do List. Say goodbye to forgotten tasks and missed deadlines, and hello to a more organized and efficient workflow. Start managing your tasks effectively today and unlock your full potential with the To-Do List!
